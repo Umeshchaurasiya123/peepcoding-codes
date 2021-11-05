@@ -1,2 +1,2 @@
-# it contain all  codes of peepcoding free reorcess 
+# It contain all  codes of peepcoding free resources
 
