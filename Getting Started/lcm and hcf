@@ -16,7 +16,7 @@ import java.util.*;
       }
       int max=0;
       //n1 is slowest 
-      for(int i=n1;i>1;i--)
+      for(int i=n1;i=>1;i--)
       {
           
           if(n1%i==0&&n2%i==0)
