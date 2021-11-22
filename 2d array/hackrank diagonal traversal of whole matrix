@@ -76,7 +76,7 @@ public class Solution {
         {
             //inver for loop to traverse the diginal 
         //here we divide our matrix in two part uppper part and lower trangular part
-        //out upper part start from 0 th iagonal to <row-1+column-1  
+        //out upper part start from 0 th iagonal to <=(row-1+column-1)/2  
         //for upper part our column is counstant and row change 
             if(gap<=(row-1+column-1)/2)
             {
@@ -88,7 +88,9 @@ public class Solution {
             }
             else
             {
-                
+             //for lower trangular part of last row is constant and columns is changing 
+            //here our coundition is that our bour diginal traversing start form bottom wall and end in left wall so our ledt wall is termination condition 
+               
                 for(int i=row-1,j=gap-i;j<=column-1;i--,j++)
                 {
                     System.out.print(arr[i][j]+" ");
