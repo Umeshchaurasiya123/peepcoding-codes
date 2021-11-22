@@ -23,7 +23,9 @@ public class Main {
         int lrow=row-1;
         int lcolumn=column-1;
         int count=0;
-        while(true)
+        while(true)                 //we can also use while(counter!=row*column)  when we are using break instend of return , 
+                                    //beacause break  movee control out of for loop  here 
+                                    //so we havae to specify the reson for the while exit condtion 
         {
         //loop for top to bottom on row on left wall
     
@@ -34,6 +36,7 @@ public class Main {
             if(count==row*column)
             {
                 return;
+                //break;
             }
         }
         fcolumn++;
