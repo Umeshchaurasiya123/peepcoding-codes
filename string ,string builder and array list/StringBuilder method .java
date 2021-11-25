@@ -49,7 +49,7 @@ public class Main {
 		 //-----------------------------------------------------------------------------------------------------------------------
 		 
 		 //to insert any character in mutable string i.e string builder we use 
-		 //.Insert(index,'character')
+		 //.insert(index,'character')
 		 str1.insert(3,'s');
 		 System.out.println(str1.toString());
 		  //umesh
