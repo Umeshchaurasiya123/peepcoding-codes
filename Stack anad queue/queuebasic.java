@@ -53,6 +53,7 @@ System.out.println(q);
 // to remove we use remove() or poll()
 
 // to get an eleemtn at top we use peek()
+// to get the size we use size() i.e q.size()
 
 
   
