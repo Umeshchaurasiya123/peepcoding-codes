@@ -21,6 +21,7 @@ public static void main(String [] args) throws Exception {
  Scanner sc=new Scanner(System.in);
  Stack<Integer> stk =new Stack();
  // inicialization of an empty stack
+ // here stk is reference varable of type stack 
  
  stk.push(10);
  System.out.println(stk.peek());
@@ -58,3 +59,20 @@ public static void main(String [] args) throws Exception {
   
   }
 }
+
+
+
+//----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10
+[10]
+20
+[10, 20]
+30
+[10, 20, 30]
+40
+[10, 20, 30, 40]
+[10, 20, 30]
+[10, 20]
+[10]
+[]
+
