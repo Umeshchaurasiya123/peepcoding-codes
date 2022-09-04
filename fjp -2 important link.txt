@@ -22,7 +22,11 @@ https://docs.google.com/spreadsheets/d/17-9mN8GQnS73unW6TevFZM3FaiRNUmre95t4WoGF
 
 
 Level 2 Sheet Link:
-https://docs.google.com/spreadsheets/d/1VvH96lXvN8btI1ky3ODNcMqch1zcWsXnsI4QiqN9TAc/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1VvH96lXvN8btI1ky3ODNcMqch1zcWsXnsI4QiqN9TAc/edit?usp=sharing //old not working 
+// old but working 
+https://docs.google.com/spreadsheets/d/1_6ZtQprxIpn6j8jgC1mR3lWuMcGOwHnnwo8U4aJYxmU/edit#gid=352998283
+// notes
+https://drive.google.com/drive/folders/1UfscSvllHyXPlIGK4WxyoMDF-z_jUJD4
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 System desine imp link by navdeep sandhu
